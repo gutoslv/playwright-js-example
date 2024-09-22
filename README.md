@@ -1,4 +1,4 @@
-# Workramp take home challenge
+# Cypress + GH Actions example
 
 ## Introduction
 
