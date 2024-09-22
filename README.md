@@ -1,4 +1,4 @@
-# Cypress + GH Actions example
+# Playwright example
 
 ## Introduction
 
